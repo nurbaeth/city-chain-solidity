@@ -10,7 +10,7 @@ A fully on-chain, multiplayer word game where players name **cities** one after 
 - 🧠 Letter logic supports Cyrillic (ignores ь, ъ, ы)
 - 🔒 Prevents repeated cities
 - 🕒 Auto-reset after timeout (1 day of inactivity)
-- 📜 Public game history
+- 📜 Public game history 
 
 ---
 
