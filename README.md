@@ -16,7 +16,7 @@ A fully on-chain, multiplayer word game where players name **cities** one after 
 
 ## 🎮 How to Play
 
-1. First player submits any real city name.
+1. First player submits any real city name. 
 2. Each next city must begin with the last valid letter of the previous one.
 3. Cities **must not repeat**.
 4. If no moves for 24h, anyone can **reset the game**.
